@@ -1,2 +1,2 @@
 # programming
-Programming exercises in java for P1, P2 and P3.
+Programming exercises in java for P1 and P2.
